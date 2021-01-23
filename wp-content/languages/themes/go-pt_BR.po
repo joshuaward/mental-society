@@ -1,0 +1,989 @@
+# Translation of Themes - Go in Portuguese (Brazil)
+# This file is distributed under the same license as the Themes - Go package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-02-17 20:58:02+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: pt_BR\n"
+"Project-Id-Version: Themes - Go\n"
+
+#. Description of the theme
+msgid "Go is an innovative, Gutenberg-first WordPress theme, hyper-focused on empowering makers to build beautifully rich websites with WordPress."
+msgstr "Go é um tema inovador do Gutenberg, o novo editor do WordPress que promete proporcionar a criação de sites incríveis."
+
+#. Theme Name of the theme
+msgid "Go"
+msgstr "Go"
+
+#: includes/core.php:101 includes/customizer.php:494
+msgid "Primary"
+msgstr "Principal"
+
+#: includes/customizer.php:1009
+msgid "Site Design"
+msgstr "Design do site"
+
+#: includes/woocommerce.php:153
+msgid "View cart"
+msgstr "Ver carrinho"
+
+#: includes/woocommerce.php:218
+msgid "Close sidebar"
+msgstr "Fechar barra lateral"
+
+#: includes/woocommerce.php:226
+msgid "Cart"
+msgstr "Carrinho"
+
+#: includes/woocommerce.php:475
+msgid "Previous Post: "
+msgstr "Post anterior: "
+
+#: includes/woocommerce.php:475
+msgid "Previous"
+msgstr "Anterior"
+
+#: includes/woocommerce.php:476
+msgid "Next Post:"
+msgstr "Próximo post:"
+
+#: includes/woocommerce.php:476
+msgid "Next"
+msgstr "Próximo"
+
+#: includes/woocommerce.php:507
+msgid "Back"
+msgstr "Voltar"
+
+#: includes/woocommerce.php:558
+msgid "Reset Selections"
+msgstr "Redefinir seleções"
+
+#: includes/core.php:1134
+msgid "Instagram"
+msgstr "Instagram"
+
+#: includes/core.php:1139
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: includes/template-tags.php:859
+msgid "Menu"
+msgstr "Menu"
+
+#: includes/core.php:1144
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: includes/classes/class-tgm-plugin-activation.php:2545
+msgid "Plugin"
+msgstr "Plugin"
+
+#: includes/customizer.php:916
+msgid "Social"
+msgstr "Social"
+
+#. translators: %s: version number
+#: includes/classes/class-tgm-plugin-activation.php:1980
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: includes/core.php:1129
+msgid "Twitter"
+msgstr "Twitter"
+
+#: includes/core.php:187
+msgctxt "abbreviation of the font size option label"
+msgid "M"
+msgstr "M"
+
+#: includes/core.php:667
+msgctxt "color palette name"
+msgid "Bronze"
+msgstr "Bronze"
+
+#: includes/core.php:211
+msgctxt "name of the first color palette selection"
+msgid "Primary"
+msgstr "Principal"
+
+#: comments.php:62
+msgid "&larr; Older Comments"
+msgstr "&larr; Comentários mais antigos"
+
+#: includes/pluggable.php:28
+msgid "(Edit)"
+msgstr "(Editar)"
+
+#: includes/classes/class-tgm-plugin-activation.php:2724
+msgid "Activate"
+msgstr "Ativar"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: includes/classes/class-tgm-plugin-activation.php:2612
+msgid "Activate %2$s"
+msgstr "Ativar %2$s"
+
+#: includes/classes/class-tgm-plugin-activation.php:2319
+msgid "Active"
+msgstr "Ativo"
+
+#: includes/classes/class-tgm-plugin-activation.php:3508
+msgid "All installations and activations have been completed."
+msgstr "Todas as instalações e ativações foram concluídas."
+
+#: includes/classes/class-tgm-plugin-activation.php:3516
+msgid "All installations have been completed."
+msgstr "Todas as instalações foram concluídas."
+
+#. translators: 1: dashboard link.
+#: includes/classes/class-tgm-plugin-activation.php:392
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Todos os plugins foram instalados e ativados. %1$s"
+
+#: includes/classes/class-tgm-plugin-activation.php:2508
+msgid "Available version:"
+msgstr "Versão disponível:"
+
+#: includes/template-tags.php:171
+msgid "Categories"
+msgstr "Categorias"
+
+#: includes/customizer.php:447
+msgid "Choose a style, select a color scheme and customize colors to personalize your site."
+msgstr "Escolha um estilo e selecione um esquema de cores para personalizar o seu site."
+
+#: comments.php:61
+msgid "Comment navigation"
+msgstr "Explorar comentários"
+
+#: includes/customizer.php:404
+msgid "Copyright Text"
+msgstr "Texto de copyright"
+
+#: includes/customizer.php:446
+msgid "Design Style"
+msgstr "Estilo do design"
+
+#: includes/pluggable.php:62
+msgid "Edit"
+msgstr "Editar"
+
+#: includes/core.php:1124
+msgid "Facebook"
+msgstr "Conta do Facebook"
+
+#: includes/template-tags.php:227
+msgid "Featured"
+msgstr "Em destaque"
+
+#: includes/customizer.php:836 includes/customizer.php:855
+msgid "Footer"
+msgstr "Rodapé"
+
+#: partials/footers/footer-1.php:18 partials/footers/footer-2.php:16
+msgid "Footer Menu"
+msgstr "Menu do rodapé"
+
+#: includes/customizer.php:769 includes/customizer.php:788
+msgid "Header"
+msgstr "Cabeçalho"
+
+#. translators: 1: plugin name.
+#: includes/classes/class-tgm-plugin-activation.php:3507
+#: includes/classes/class-tgm-plugin-activation.php:3515
+msgid "Hide Details"
+msgstr "Ocultar detalhes"
+
+#: includes/template-tags.php:175
+msgid "In"
+msgstr "Em"
+
+#: includes/classes/class-tgm-plugin-activation.php:2715
+msgid "Install"
+msgstr "Instalar"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: includes/classes/class-tgm-plugin-activation.php:2601
+msgid "Install %2$s"
+msgstr "Instalar %2$s"
+
+#: includes/classes/class-tgm-plugin-activation.php:326
+msgid "Install Plugins"
+msgstr "Instalar plugins"
+
+#: includes/classes/class-tgm-plugin-activation.php:2317
+msgid "Installed But Not Activated"
+msgstr "Instalado, mas não ativado"
+
+#: includes/classes/class-tgm-plugin-activation.php:2488
+msgid "Installed version:"
+msgstr "Versão instalada:"
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: includes/classes/class-tgm-plugin-activation.php:3518
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Instalando o plugin %1$s (%2$d/%3$d)"
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: includes/classes/class-tgm-plugin-activation.php:3510
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Instalando e ativando o plugin %1$s (%2$d/%3$d)"
+
+#: comments.php:63
+msgid "Newer Comments &rarr;"
+msgstr "Comentários mais recentes &rarr;"
+
+#: includes/classes/class-tgm-plugin-activation.php:2313
+msgid "Not Installed"
+msgstr "Não instalado"
+
+#: includes/core.php:1332
+msgid "Nothing Found"
+msgstr "Nada encontrado"
+
+#: partials/content.php:44
+msgid "Page"
+msgstr "Página"
+
+#: includes/customizer.php:365
+msgid "Page Titles"
+msgstr "Títulos da página"
+
+#: partials/content.php:44
+msgid "Pages:"
+msgstr "Páginas:"
+
+#: includes/pluggable.php:28
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: includes/classes/class-tgm-plugin-activation.php:385
+#: includes/classes/class-tgm-plugin-activation.php:3157
+msgid "Plugin activated successfully."
+msgstr "Plugin ativado."
+
+#: includes/classes/class-tgm-plugin-activation.php:2274
+msgid "Recommended"
+msgstr "Recomendado"
+
+#: includes/pluggable.php:71
+msgid "Reply"
+msgstr "Responder"
+
+#: includes/classes/class-tgm-plugin-activation.php:2271
+msgid "Required"
+msgstr "Obrigatório"
+
+#: includes/classes/class-tgm-plugin-activation.php:384
+#: includes/classes/class-tgm-plugin-activation.php:825
+#: includes/classes/class-tgm-plugin-activation.php:2531
+#: includes/classes/class-tgm-plugin-activation.php:3578
+msgid "Return to the Dashboard"
+msgstr "Voltar para o Painel"
+
+#: includes/template-tags.php:892
+msgid "Search Toggle"
+msgstr "Alternar pesquisa"
+
+#: includes/customizer.php:516
+msgid "Secondary"
+msgstr "Secundário"
+
+#: includes/customizer.php:348
+msgid "Site Settings"
+msgstr "Configurações do site"
+
+#: header.php:39
+msgid "Skip to content"
+msgstr "Ir direto para o conteúdo"
+
+#: includes/classes/class-tgm-plugin-activation.php:2552
+msgid "Status"
+msgstr "Status"
+
+#: includes/template-tags.php:189
+msgid "Tags"
+msgstr "Tags"
+
+#: includes/customizer.php:538
+msgid "Tertiary"
+msgstr "Terciário"
+
+#. translators: 1: number of plugins.
+#: includes/classes/class-tgm-plugin-activation.php:2398
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "Para ativar <span class=\"count\">(%s)</span>"
+msgstr[1] "Para ativar <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: includes/classes/class-tgm-plugin-activation.php:2390
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "Para instalar <span class=\"count\">(%s)</span>"
+msgstr[1] "Para instalar <span class=\"count\">(%s)</span>"
+
+#: includes/classes/class-tgm-plugin-activation.php:2547
+msgid "Type"
+msgstr "Tipo"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: includes/classes/class-tgm-plugin-activation.php:2606
+msgid "Update %2$s"
+msgstr "Atualizar %2$s"
+
+#. translators: 1: number of plugins.
+#: includes/classes/class-tgm-plugin-activation.php:2394
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "Atualização disponível <span class=\"count\">(%s)</span>"
+msgstr[1] "Atualização disponível <span class=\"count\">(%s)</span>"
+
+#: includes/classes/class-tgm-plugin-activation.php:2331
+msgid "Update recommended"
+msgstr "Atualização recomendada"
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: includes/classes/class-tgm-plugin-activation.php:3496
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Atualizando o plugin %1$s (%2$d/%3$d)"
+
+#: includes/classes/class-tgm-plugin-activation.php:2551
+msgid "Version"
+msgstr "Versão"
+
+#: includes/customizer.php:293
+msgid "Width"
+msgstr "Largura"
+
+#: includes/classes/class-tgm-plugin-activation.php:2290
+msgid "WordPress Repository"
+msgstr "Repositório do WordPress"
+
+#: includes/woocommerce.php:337
+msgid "Your cart is currently empty."
+msgstr "Seu carrinho está vazio no momento."
+
+#: includes/pluggable.php:57
+msgid "Your comment is awaiting moderation."
+msgstr "Seu comentário está aguardando moderação."
+
+#: includes/core.php:193
+msgctxt "abbreviation of the font size option label"
+msgid "L"
+msgstr "G"
+
+#: includes/core.php:181
+msgctxt "abbreviation of the font size option label"
+msgid "S"
+msgstr "P"
+
+#: includes/core.php:199
+msgctxt "abbreviation of the font size option label"
+msgid "XL"
+msgstr "GG"
+
+#: includes/classes/class-tgm-plugin-activation.php:2480
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "desconhecido"
+
+#: includes/core.php:646
+msgctxt "color palette name"
+msgid "Apricot"
+msgstr "Damasco"
+
+#: includes/core.php:770
+msgctxt "color palette name"
+msgid "Avocado"
+msgstr "Abacate"
+
+#: includes/core.php:896
+msgctxt "color palette name"
+msgid "Berry"
+msgstr "Framboesa"
+
+#: includes/core.php:706
+msgctxt "color palette name"
+msgid "Blush"
+msgstr "Vermelho"
+
+#: includes/core.php:876
+msgctxt "color palette name"
+msgid "Coral"
+msgstr "Coral"
+
+#: includes/core.php:653
+msgctxt "color palette name"
+msgid "Emerald"
+msgstr "Esmeralda"
+
+#: includes/core.php:812
+msgctxt "color palette name"
+msgid "Forest"
+msgstr "Floresta"
+
+#: includes/core.php:713
+msgctxt "color palette name"
+msgid "Indigo"
+msgstr "Índigo"
+
+#: includes/core.php:836
+msgctxt "color palette name"
+msgid "Lavender"
+msgstr "Lavanda"
+
+#: includes/core.php:828
+msgctxt "color palette name"
+msgid "Mocha"
+msgstr "Mocha"
+
+#: includes/core.php:886
+msgctxt "color palette name"
+msgid "Organic"
+msgstr "Orgânico"
+
+#: includes/core.php:720
+msgctxt "color palette name"
+msgid "Pacific"
+msgstr "Pacífico"
+
+#: includes/core.php:699
+msgctxt "color palette name"
+msgid "Shade"
+msgstr "Tonalidade"
+
+#: includes/core.php:820
+msgctxt "color palette name"
+msgid "Spruce"
+msgstr "Abeto"
+
+#: includes/core.php:762
+msgctxt "color palette name"
+msgid "Steel"
+msgstr "Aço"
+
+#: includes/core.php:694
+msgctxt "design style name"
+msgid "Modern"
+msgstr "Moderno"
+
+#: includes/core.php:861
+msgctxt "design style name"
+msgid "Playful"
+msgstr "Divertido"
+
+#: includes/core.php:641
+msgctxt "design style name"
+msgid "Traditional"
+msgstr "Tradicional"
+
+#: includes/core.php:748
+msgctxt "design style name"
+msgid "Trendy"
+msgstr "Na moda"
+
+#: includes/core.php:807
+msgctxt "design style name"
+msgid "Welcoming"
+msgstr "Boas-vindas"
+
+#: includes/core.php:198
+msgctxt "font size option label"
+msgid "Huge"
+msgstr "Enorme"
+
+#: includes/core.php:192
+msgctxt "font size option label"
+msgid "Large"
+msgstr "Grande"
+
+#: includes/core.php:180
+msgctxt "font size option label"
+msgid "Small"
+msgstr "Pequeno"
+
+#: includes/core.php:1020
+msgctxt "name of the first footer variation option"
+msgid "Footer 1"
+msgstr "Rodapé 1"
+
+#: includes/core.php:981
+msgctxt "name of the first header variation option"
+msgid "Header 1"
+msgstr "Cabeçalho 1"
+
+#: includes/core.php:226
+msgctxt "name of the fourth color palette selection"
+msgid "Quaternary"
+msgstr "Quaternário"
+
+#: includes/core.php:1041
+msgctxt "name of the fourth footer variation option"
+msgid "Footer 4"
+msgstr "Rodapé 4"
+
+#: includes/core.php:993
+msgctxt "name of the fourth header variation option"
+msgid "Header 4"
+msgstr "Cabeçalho 4"
+
+#: includes/core.php:216
+msgctxt "name of the second color palette selection"
+msgid "Secondary"
+msgstr "Secundário"
+
+#: includes/core.php:1027
+msgctxt "name of the second footer variation option"
+msgid "Footer 2"
+msgstr "Rodapé 2"
+
+#: includes/core.php:985
+msgctxt "name of the second header variation option"
+msgid "Header 2"
+msgstr "Cabeçalho 2"
+
+#: includes/core.php:221
+msgctxt "name of the third color palette selection"
+msgid "Tertiary"
+msgstr "Terciário"
+
+#: includes/core.php:1034
+msgctxt "name of the third footer variation option"
+msgid "Footer 3"
+msgstr "Rodapé 3"
+
+#: includes/core.php:989
+msgctxt "name of the third header variation option"
+msgid "Header 3"
+msgstr "Cabeçalho 3"
+
+#: includes/classes/class-tgm-plugin-activation.php:1119
+#: includes/classes/class-tgm-plugin-activation.php:2946
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "e"
+
+#: partials/content-excerpt.php:25
+msgctxt "post"
+msgid "Featured"
+msgstr "Em destaque"
+
+#: searchform.php:25
+msgctxt "submit button"
+msgid "Submit"
+msgstr "Enviar"
+
+#. translators: %s: The post title.
+#: comments.php:32
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr "Um comentário em &ldquo;%s&rdquo;"
+
+#: header.php:56
+msgid "Horizontal"
+msgstr "Horizontal"
+
+#. translators: 1: date, 2: time
+#: includes/pluggable.php:51
+msgid "%1$s at %2$s"
+msgstr "%1$s, às %2$s"
+
+#. translators: 1: plugin name.
+#: includes/classes/class-tgm-plugin-activation.php:3507
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s foi instalado e ativado."
+
+#. translators: 1: plugin name.
+#: includes/classes/class-tgm-plugin-activation.php:3515
+msgid "%1$s installed successfully."
+msgstr "%1$s foi instalado."
+
+#. translators: %1$s: The number of comments. %2$s: The post title.
+#: comments.php:39
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s comentário em &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s comentário em &ldquo;%2$s&rdquo;"
+
+#. Translators: %s = the author name.
+#: includes/template-tags.php:120
+msgctxt "%s = author name"
+msgid "By %s"
+msgstr "De %s"
+
+#. translators: 1. Single integer value. (eg: 1 product in your cart). 2.
+#. Integer larger than 1. (eg: 5 products in your cart).
+#: includes/woocommerce.php:233 includes/woocommerce.php:283
+msgid "%s product in your cart"
+msgid_plural "%s products in your cart"
+msgstr[0] "%s produto no seu carrinho de compras"
+msgstr[1] "%s produto no seu carrinho de compras"
+
+#. translators: 1: plugin name, 2: error message.
+#: includes/classes/class-tgm-plugin-activation.php:3499
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Ocorreu um erro ao instalar %1$s: <strong>%2$s</strong>."
+
+#: includes/classes/class-tgm-plugin-activation.php:378
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Iniciar a ativação do plugin"
+msgstr[1] "Iniciar a ativação do plugin"
+
+#: includes/classes/class-tgm-plugin-activation.php:368
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Iniciar a instalação do plugin"
+msgstr[1] "Iniciar a instalação do plugin"
+
+#: includes/classes/class-tgm-plugin-activation.php:373
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "Iniciar a atualização do plugin"
+msgstr[1] "Iniciar a atualização do plugin"
+
+#: includes/customizer.php:856
+msgid "Choose a footer for every page on your site, then style it with the selectors below."
+msgstr "Escolha um rodapé para todas as páginas do seu site e então estilize-o com os seletores abaixo."
+
+#: includes/customizer.php:789
+msgid "Choose a header for every page on your site, then style it with the selectors below."
+msgstr "Escolha um cabeçalho para todas as páginas do seu site e então estilize-o com os seletores abaixo."
+
+#: comments.php:74
+msgid "Comments are closed."
+msgstr "Comentários encerrados."
+
+#: includes/classes/class-tgm-plugin-activation.php:393
+msgid "Dismiss this notice"
+msgstr "Dispensar este aviso"
+
+#: includes/classes/class-tgm-plugin-activation.php:2293
+msgid "External Source"
+msgstr "Origem externa‌‌"
+
+#: includes/core.php:102
+msgid "Footer Menu #1"
+msgstr "Menu do rodapé 1"
+
+#: includes/core.php:103
+msgid "Footer Menu #2"
+msgstr "Menu do rodapé 2"
+
+#: includes/core.php:104
+msgid "Footer Menu #3"
+msgstr "Menu do rodapé 3"
+
+#: includes/classes/class-tgm-plugin-activation.php:325
+msgid "Install Required Plugins"
+msgstr "Instalar plugins obrigatórios"
+
+#. translators: 1: install status, 2: update status
+#: includes/classes/class-tgm-plugin-activation.php:2340
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, às %2$s"
+
+#. translators: %s: plugin name.
+#: includes/classes/class-tgm-plugin-activation.php:328
+msgid "Installing Plugin: %s"
+msgstr "Instalando o plugin %s"
+
+#: partials/content-none.php:38
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help you out."
+msgstr "Não foi possível encontrar o que você buscava. Tente pesquisar."
+
+#: includes/classes/class-tgm-plugin-activation.php:2496
+msgid "Minimum required version:"
+msgstr "Versão mínima obrigatória:"
+
+#: includes/customizer.php:322
+msgid "Mobile Width"
+msgstr "Largura para dispositivo móvel"
+
+#: partials/pagination.php:21
+msgid "Newer <span class=\"nav-short\">Posts</span>"
+msgstr "<span class=\"nav-short\">Posts</span> mais recentes"
+
+#. translators: 1: plugin name.
+#: includes/classes/class-tgm-plugin-activation.php:388
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "Nenhuma ação é necessária. O plugin %1$s já estava ativo."
+
+#: includes/classes/class-tgm-plugin-activation.php:2932
+msgid "No plugins are available to be activated at this time."
+msgstr "Não há plugins disponíveis para ativação no momento."
+
+#: includes/classes/class-tgm-plugin-activation.php:2798
+msgid "No plugins are available to be installed at this time."
+msgstr "Não há plugins disponíveis para instalação no momento."
+
+#: includes/classes/class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be updated at this time."
+msgstr "Não há plugins disponíveis para atualização no momento."
+
+#: includes/classes/class-tgm-plugin-activation.php:2531
+msgid "No plugins to install, update or activate."
+msgstr "Não há plugins a serem instalados, atualizados ou ativados."
+
+#: includes/classes/class-tgm-plugin-activation.php:2906
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "Nenhum plugin foi selecionado para ativação. Nenhuma ação é necessária."
+
+#: includes/classes/class-tgm-plugin-activation.php:2755
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "Nenhum plugin foi selecionado para instalação. Nenhuma ação é necessária."
+
+#: includes/classes/class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "Nenhum plugin foi selecionado para atualização. Nenhuma ação é necessária."
+
+#: partials/pagination.php:25
+msgid "Older <span class=\"nav-short\">Posts</span>"
+msgstr "<span class=\"nav-short\">Posts</span> mais antigos"
+
+#. translators: %s is the registered nav menu name
+#: includes/customizer.php:107
+msgid "Please assign a menu to the %s menu location"
+msgstr "Atribua um menu ao local do menu %s"
+
+#: includes/classes/class-tgm-plugin-activation.php:395
+msgid "Please contact the administrator of this site for help."
+msgstr "Entre em contato com o administrador do site para obter ajuda."
+
+#: includes/classes/class-tgm-plugin-activation.php:932
+#: includes/classes/class-tgm-plugin-activation.php:935
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr "Entre em contato com o fornecedor do plugin e peça que o plugin seja inserido em uma pasta de acordo com as diretrizes do WordPress."
+
+#: includes/classes/class-tgm-plugin-activation.php:3156
+msgid "Plugin activation failed."
+msgstr "Falha na ativação do plugin."
+
+#. translators: 1: plugin name.
+#: includes/classes/class-tgm-plugin-activation.php:390
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr "Plugin não ativado. Esse tema requer uma versão mais recente do %s. Atualize o plugin."
+
+#: includes/pluggable.php:44 includes/template-tags.php:114
+msgid "Post author"
+msgstr "Autor do post"
+
+#: includes/template-tags.php:136
+msgid "Post date"
+msgstr "Data do post"
+
+#: includes/classes/class-tgm-plugin-activation.php:2296
+msgid "Pre-Packaged"
+msgstr "Pré-inserido em pasta"
+
+#: partials/footers/footer-4.php:21 partials/footers/footer-3.php:21
+msgid "Primary Footer Menu"
+msgstr "Menu principal do rodapé"
+
+#. translators: 1: link to WP admin new post page.
+#: partials/content-none.php:21
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Você está pronto para publicar seu primeiro post? <a href=\"%1$s\">Comece aqui.</a>"
+
+#: includes/classes/class-tgm-plugin-activation.php:2325
+msgid "Required Update not Available"
+msgstr "Atualização obrigatória indisponível"
+
+#: includes/classes/class-tgm-plugin-activation.php:2328
+msgid "Requires Update"
+msgstr "Atualização obrigatória"
+
+#: includes/classes/class-tgm-plugin-activation.php:383
+msgid "Return to Required Plugins Installer"
+msgstr "Voltar para o instalador de plugins obrigatórios"
+
+#. translators: Search query term(s).
+#: includes/core.php:1324
+msgid "Search for: %s"
+msgstr "Procurar: %s"
+
+#: partials/footers/footer-4.php:37 partials/footers/footer-3.php:36
+msgid "Secondary Footer Menu"
+msgstr "Menu secundário do rodapé"
+
+#. translators: 1: plugin name.
+#: includes/classes/class-tgm-plugin-activation.php:3507
+#: includes/classes/class-tgm-plugin-activation.php:3515
+msgid "Show Details"
+msgstr "Mostrar detalhes"
+
+#: includes/classes/class-tgm-plugin-activation.php:331
+msgid "Something went wrong with the plugin API."
+msgstr "Ocorreu um erro com a API do plugin."
+
+#: partials/content-none.php:33
+msgid "Sorry, but nothing matched your search terms. Please try searching again with some different keywords."
+msgstr "Não há correspondências para os termos de pesquisa. Tente pesquisar novamente com outras palavras-chave."
+
+#: includes/classes/class-tgm-plugin-activation.php:2546
+msgid "Source"
+msgstr "Origem"
+
+#: partials/footers/footer-4.php:53 partials/footers/footer-3.php:51
+msgid "Tertiary Footer Menu"
+msgstr "Menu terciário do rodapé"
+
+#: includes/core.php:1306
+msgid "That page can't be found"
+msgstr "Não é possível encontrar a página"
+
+#. translators: 1: plugin name(s).
+#: includes/classes/class-tgm-plugin-activation.php:344
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] "O seguinte plugin precisa ser atualizado para a versão mais recente para garantir máxima compatibilidade com o tema %1$s."
+msgstr[1] "O seguinte plugin precisa ser atualizado para a versão mais recente para garantir máxima compatibilidade com o tema %1$s."
+
+#: includes/classes/class-tgm-plugin-activation.php:386
+#: includes/classes/class-tgm-plugin-activation.php:2950
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "O seguinte plugin foi ativado:"
+msgstr[1] "O seguinte plugin foi ativado:"
+
+#. translators: 1: plugin name(s).
+#: includes/classes/class-tgm-plugin-activation.php:362
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "O plugin recomendado %1$s está inativo no momento."
+msgstr[1] "O plugin recomendado %1$s está inativo no momento."
+
+#. translators: 1: plugin name(s).
+#: includes/classes/class-tgm-plugin-activation.php:356
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "O plugin obrigatório %1$s está inativo no momento."
+msgstr[1] "O plugin obrigatório %1$s está inativo no momento."
+
+#: includes/classes/class-tgm-plugin-activation.php:3505
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Iniciando processo de instalação e ativação. Esse processo pode demorar um pouco em alguns hosts. Aguarde."
+
+#. translators: 1: plugin name.
+#: includes/classes/class-tgm-plugin-activation.php:3501
+msgid "The installation of %1$s failed."
+msgstr "Falha na instalação de %1$s."
+
+#: includes/classes/class-tgm-plugin-activation.php:3513
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Iniciando o processo de instalação. Esse processo pode demorar um pouco em alguns hosts. Aguarde."
+
+#: includes/classes/class-tgm-plugin-activation.php:935
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr "O pacote de plugin remoto consiste em mais de um arquivo, mas os arquivos não estão em uma pasta."
+
+#: includes/classes/class-tgm-plugin-activation.php:932
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr "O pacote de plugin remoto não contém uma pasta com o slug desejado. Por isso, não foi possível renomeá-lo."
+
+#: includes/classes/class-tgm-plugin-activation.php:394
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr "É necessário instalar, atualizar ou ativar um ou mais plugins obrigatórios ou recomendados."
+
+#. translators: 1: plugin name(s).
+#: includes/classes/class-tgm-plugin-activation.php:350
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "Há uma atualização disponível para %1$s."
+msgstr[1] "Há uma atualização disponível para %1$s."
+
+#: includes/classes/class-tgm-plugin-activation.php:520
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "Esse plugin precisa ser atualizado para ser compatível com o seu tema."
+
+#. translators: 1: plugin name(s).
+#: includes/classes/class-tgm-plugin-activation.php:338
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "Esse tema recomenda o plugin %1$s."
+msgstr[1] "Esse tema recomenda o plugin %1$s."
+
+#. translators: 1: plugin name(s).
+#: includes/classes/class-tgm-plugin-activation.php:332
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "Esse tema requer o plugin %1$s."
+msgstr[1] "Esse tema requer o plugin %1$s."
+
+#: includes/classes/class-tgm-plugin-activation.php:2721
+msgid "Update"
+msgstr "Atualizar"
+
+#: includes/classes/class-tgm-plugin-activation.php:521
+msgid "Update Required"
+msgstr "Atualização obrigatória"
+
+#. translators: %s: plugin name.
+#: includes/classes/class-tgm-plugin-activation.php:330
+msgid "Updating Plugin: %s"
+msgstr "Atualizando o plugin %s"
+
+#: includes/classes/class-tgm-plugin-activation.php:2682
+msgid "Upgrade message from the plugin author:"
+msgstr "Mensagem de upgrade do autor do plugin:"
+
+#: includes/core.php:660
+msgctxt "color palette name"
+msgid "Brick"
+msgstr "Tijolo"
+
+#: includes/core.php:778
+msgctxt "color palette name"
+msgid "Champagne"
+msgstr "Champanhe"
+
+#: includes/core.php:866
+msgctxt "color palette name"
+msgid "Frolic"
+msgstr "Brincadeira"
+
+#: includes/core.php:753
+msgctxt "color palette name"
+msgid "Plum"
+msgstr "Ameixa"
+
+#: includes/core.php:186
+msgctxt "font size option label"
+msgid "Medium"
+msgstr "Médio"
+
+#: searchform.php:21
+msgctxt "label"
+msgid "Search for:"
+msgstr "Procurar:"
+
+#: searchform.php:23
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr "Pesquisar &hellip;"
+
+#. translators: 1: number of plugins.
+#: includes/classes/class-tgm-plugin-activation.php:2386
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "Tudo <span class=\"count\">(%s)</span>"
+msgstr[1] "Tudo <span class=\"count\">(%s)</span>"
+
+#. Author of the theme
+msgid "GoDaddy"
+msgstr "GoDaddy"
+
+#. Theme URI of the theme
+msgid "https://github.com/godaddy-wordpress/go"
+msgstr "https://github.com/godaddy-wordpress/go"
+
+#. Author URI of the theme
+msgid "https://www.godaddy.com"
+msgstr "https://www.godaddy.com"

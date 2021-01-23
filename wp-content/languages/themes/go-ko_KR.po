@@ -1,0 +1,957 @@
+# Translation of Themes - Go in Korean
+# This file is distributed under the same license as the Themes - Go package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-08-03 05:56:38+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: ko_KR\n"
+"Project-Id-Version: Themes - Go\n"
+
+#. Description of the theme
+msgid "Go is an innovative, Gutenberg-first WordPress theme, hyper-focused on empowering makers to build beautifully rich websites with WordPress."
+msgstr "Go는 혁식적인 구텐베르크용 워드프레스 테마이며, 워드프레스로 매우 풍부한 웹사이트를 구축할 수 있도록 제작자의 역량을 강화하는 데 특별히 초점을 맞춥니다."
+
+#. Theme Name of the theme
+msgid "Go"
+msgstr "Go"
+
+#. translators: 1: date, 2: time
+#: includes/pluggable.php:51
+msgid "%1$s at %2$s"
+msgstr "%1$s %2$s"
+
+#. translators: 1: plugin name.
+#: includes/classes/class-tgm-plugin-activation.php:3507
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s이(가) 설치 및 활성화되었습니다."
+
+#. translators: 1: plugin name.
+#: includes/classes/class-tgm-plugin-activation.php:3515
+msgid "%1$s installed successfully."
+msgstr "%1$s이(가) 설치되었습니다."
+
+#. translators: %1$s: The number of comments. %2$s: The post title.
+#: comments.php:39
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "&ldquo;%2$s&rdquo;에 대한 의견 %1$s개"
+
+#. Translators: %s = the author name.
+#: includes/template-tags.php:120
+msgctxt "%s = author name"
+msgid "By %s"
+msgstr "글쓴이: %s"
+
+#. translators: 1. Single integer value. (eg: 1 product in your cart). 2.
+#. Integer larger than 1. (eg: 5 products in your cart).
+#: includes/woocommerce.php:233 includes/woocommerce.php:283
+msgid "%s product in your cart"
+msgid_plural "%s products in your cart"
+msgstr[0] "카트에 있는 제품 %s개"
+
+#: comments.php:62
+msgid "&larr; Older Comments"
+msgstr "&larr; 이전 댓글"
+
+#: includes/pluggable.php:28
+msgid "(Edit)"
+msgstr "(편집)"
+
+#: includes/classes/class-tgm-plugin-activation.php:2724
+msgid "Activate"
+msgstr "활성화"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: includes/classes/class-tgm-plugin-activation.php:2612
+msgid "Activate %2$s"
+msgstr "%2$s 활성화"
+
+#: includes/classes/class-tgm-plugin-activation.php:2319
+msgid "Active"
+msgstr "활성화"
+
+#: includes/classes/class-tgm-plugin-activation.php:3508
+msgid "All installations and activations have been completed."
+msgstr "모든 설치 및 활성화가 완료되었습니다."
+
+#: includes/classes/class-tgm-plugin-activation.php:3516
+msgid "All installations have been completed."
+msgstr "모든 설치가 완료되었습니다."
+
+#. translators: 1: dashboard link.
+#: includes/classes/class-tgm-plugin-activation.php:392
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "모든 플러그인이 설치 및 활성화되었습니다. %1$s"
+
+#. translators: 1: plugin name, 2: error message.
+#: includes/classes/class-tgm-plugin-activation.php:3499
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "%1$s 설치 중 오류가 발생했습니다. <strong>%2$s</strong>"
+
+#: includes/classes/class-tgm-plugin-activation.php:2508
+msgid "Available version:"
+msgstr "사용 가능한 버전:"
+
+#: includes/woocommerce.php:507
+msgid "Back"
+msgstr "뒤로"
+
+#: includes/classes/class-tgm-plugin-activation.php:378
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "플러그인 활성화 시작"
+
+#: includes/classes/class-tgm-plugin-activation.php:368
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "플러그인 설치 시작"
+
+#: includes/classes/class-tgm-plugin-activation.php:373
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "플러그인 업데이트 시작"
+
+#: includes/woocommerce.php:226
+msgid "Cart"
+msgstr "카트"
+
+#: includes/template-tags.php:171
+msgid "Categories"
+msgstr "카테고리"
+
+#: includes/customizer.php:856
+msgid "Choose a footer for every page on your site, then style it with the selectors below."
+msgstr "사이트의 모든 페이지에 바닥글을 선택하고 아래 선택기를 사용하여 스타일을 지정하세요."
+
+#: includes/customizer.php:789
+msgid "Choose a header for every page on your site, then style it with the selectors below."
+msgstr "사이트의 모든 페이지에 헤더를 선택하고 아래 선택기를 사용하여 스타일을 지정하세요."
+
+#: includes/customizer.php:447
+msgid "Choose a style, select a color scheme and customize colors to personalize your site."
+msgstr "귀하의 사이트를 맞춤화하기 위해 스타일을 선택하고 색 구성표를 선택하여 색을 알맞게 지정하세요."
+
+#: includes/woocommerce.php:218
+msgid "Close sidebar"
+msgstr "사이드바 닫기"
+
+#: includes/customizer.php:470
+msgid "Color scheme"
+msgstr "색 구성표"
+
+#: comments.php:61
+msgid "Comment navigation"
+msgstr "댓글 탐색"
+
+#: comments.php:74
+msgid "Comments are closed."
+msgstr "댓글이 종료되었습니다."
+
+#: includes/customizer.php:404
+msgid "Copyright Text"
+msgstr "저작권 텍스트"
+
+#: includes/customizer.php:446
+msgid "Design Style"
+msgstr "디자인 스타일"
+
+#: includes/classes/class-tgm-plugin-activation.php:393
+msgid "Dismiss this notice"
+msgstr "이 공지 닫기"
+
+#: includes/pluggable.php:62
+msgid "Edit"
+msgstr "편집"
+
+#: includes/classes/class-tgm-plugin-activation.php:2293
+msgid "External Source"
+msgstr "외부 원본"
+
+#: includes/template-tags.php:227
+msgid "Featured"
+msgstr "추천"
+
+#: includes/customizer.php:836 includes/customizer.php:855
+msgid "Footer"
+msgstr "바닥글"
+
+#: partials/footers/footer-1.php:18 partials/footers/footer-2.php:16
+msgid "Footer Menu"
+msgstr "바닥글 메뉴"
+
+#: includes/core.php:102
+msgid "Footer Menu #1"
+msgstr "바닥글 메뉴 #1"
+
+#: includes/core.php:103
+msgid "Footer Menu #2"
+msgstr "바닥글 메뉴 #2"
+
+#: includes/core.php:104
+msgid "Footer Menu #3"
+msgstr "바닥글 메뉴 #3"
+
+#: includes/customizer.php:769 includes/customizer.php:788
+msgid "Header"
+msgstr "헤더"
+
+#. translators: 1: plugin name.
+#: includes/classes/class-tgm-plugin-activation.php:3507
+#: includes/classes/class-tgm-plugin-activation.php:3515
+msgid "Hide Details"
+msgstr "세부 정보 가리기"
+
+#: header.php:56
+msgid "Horizontal"
+msgstr "가로"
+
+#: includes/template-tags.php:175
+msgid "In"
+msgstr "위치:"
+
+#: includes/classes/class-tgm-plugin-activation.php:2715
+msgid "Install"
+msgstr "설치"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: includes/classes/class-tgm-plugin-activation.php:2601
+msgid "Install %2$s"
+msgstr "%2$s 설치"
+
+#: includes/classes/class-tgm-plugin-activation.php:326
+msgid "Install Plugins"
+msgstr "플러그인 설치"
+
+#: includes/classes/class-tgm-plugin-activation.php:325
+msgid "Install Required Plugins"
+msgstr "필수 플러그인 설치"
+
+#. translators: 1: install status, 2: update status
+#: includes/classes/class-tgm-plugin-activation.php:2340
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s %2$s"
+
+#: includes/classes/class-tgm-plugin-activation.php:2317
+msgid "Installed But Not Activated"
+msgstr "설치되었으나 활성화 안 됨"
+
+#: includes/classes/class-tgm-plugin-activation.php:2488
+msgid "Installed version:"
+msgstr "설치된 버전:"
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: includes/classes/class-tgm-plugin-activation.php:3518
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "%1$s(%2$d/%3$d) 플러그인 설치 중"
+
+#. translators: %s: plugin name.
+#: includes/classes/class-tgm-plugin-activation.php:328
+msgid "Installing Plugin: %s"
+msgstr "플러그인 설치 중: %s"
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: includes/classes/class-tgm-plugin-activation.php:3510
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "%1$s(%2$d/%3$d) 플러그인 설치 및 활성화 중"
+
+#: partials/content-none.php:38
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help you out."
+msgstr "귀하가 찾으시는 내용을 찾을 수 없는 것 같습니다. 검색이 도움될 수도 있습니다."
+
+#: includes/template-tags.php:859
+msgid "Menu"
+msgstr "메뉴"
+
+#: includes/classes/class-tgm-plugin-activation.php:2496
+msgid "Minimum required version:"
+msgstr "필요한 최소 버전:"
+
+#: includes/customizer.php:322
+msgid "Mobile Width"
+msgstr "모바일용 너비"
+
+#: partials/pagination.php:21
+msgid "Newer <span class=\"nav-short\">Posts</span>"
+msgstr "신규 <span class=\"nav-short\">게시물</span>"
+
+#: comments.php:63
+msgid "Newer Comments &rarr;"
+msgstr "신규 댓글 &rarr;"
+
+#: includes/woocommerce.php:476
+msgid "Next"
+msgstr "다음"
+
+#: includes/woocommerce.php:476
+msgid "Next Post:"
+msgstr "다음 게시물:"
+
+#. translators: 1: plugin name.
+#: includes/classes/class-tgm-plugin-activation.php:388
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "수행된 작업이 없습니다. 플러그인 %1$s이(가) 이미 활성화되었습니다."
+
+#: includes/classes/class-tgm-plugin-activation.php:2932
+msgid "No plugins are available to be activated at this time."
+msgstr "현재 활성화할 플러그인이 없습니다."
+
+#: includes/classes/class-tgm-plugin-activation.php:2798
+msgid "No plugins are available to be installed at this time."
+msgstr "현재 설치할 플러그인이 없습니다."
+
+#: includes/classes/class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be updated at this time."
+msgstr "현재 업데이트할 플러그인이 없습니다."
+
+#: includes/classes/class-tgm-plugin-activation.php:2531
+msgid "No plugins to install, update or activate."
+msgstr "설치, 업데이트 또는 활성화할 플러그인이 없습니다."
+
+#: includes/classes/class-tgm-plugin-activation.php:2906
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "활성화할 플러그인이 선택되지 않았습니다. 수행된 작업이 없습니다."
+
+#: includes/classes/class-tgm-plugin-activation.php:2755
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "설치할 플러그인이 선택되지 않았습니다. 수행된 작업이 없습니다."
+
+#: includes/classes/class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "업데이트할 플러그인이 선택되지 않았습니다. 수행된 작업이 없습니다."
+
+#: includes/classes/class-tgm-plugin-activation.php:2313
+msgid "Not Installed"
+msgstr "설치 안 됨"
+
+#: includes/core.php:1332
+msgid "Nothing Found"
+msgstr "검색 결과 없음"
+
+#: partials/pagination.php:25
+msgid "Older <span class=\"nav-short\">Posts</span>"
+msgstr "지난 <span class=\"nav-short\">게시물</span>"
+
+#. translators: %s: The post title.
+#: comments.php:32
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr "&ldquo;%s&rdquo;에 대한 의견 1개"
+
+#: partials/content.php:44
+msgid "Page"
+msgstr "페이지"
+
+#: includes/customizer.php:365
+msgid "Page Titles"
+msgstr "페이지 제목"
+
+#: partials/content.php:44
+msgid "Pages:"
+msgstr "페이지:"
+
+#: includes/pluggable.php:28
+msgid "Pingback:"
+msgstr "핑백:"
+
+#. translators: %s is the registered nav menu name
+#: includes/customizer.php:107
+msgid "Please assign a menu to the %s menu location"
+msgstr "%s 메뉴 위치에 메뉴 지정"
+
+#: includes/classes/class-tgm-plugin-activation.php:395
+msgid "Please contact the administrator of this site for help."
+msgstr "지원이 필요한 경우 이 사이트의 관리자에게 문의하시기 바랍니다."
+
+#: includes/classes/class-tgm-plugin-activation.php:932
+#: includes/classes/class-tgm-plugin-activation.php:935
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr "플러그인 공급업체에 문의하여 워드프레스 지침에 따라 해당 플러그인을 패키징하도록 요청하십시오."
+
+#: includes/classes/class-tgm-plugin-activation.php:2545
+msgid "Plugin"
+msgstr "플러그인"
+
+#: includes/classes/class-tgm-plugin-activation.php:385
+#: includes/classes/class-tgm-plugin-activation.php:3157
+msgid "Plugin activated successfully."
+msgstr "플러그인이 활성화되었습니다."
+
+#: includes/classes/class-tgm-plugin-activation.php:3156
+msgid "Plugin activation failed."
+msgstr "플러그인 활성화에 실패했습니다."
+
+#. translators: 1: plugin name.
+#: includes/classes/class-tgm-plugin-activation.php:390
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr "플러그인이 활성화되지 않았습니다. 이 테마에는 %s의 상위 버전이 필요합니다. 플러그인을 업데이트하시기 바랍니다."
+
+#: includes/pluggable.php:44 includes/template-tags.php:114
+msgid "Post author"
+msgstr "게시물 글쓴이"
+
+#: includes/template-tags.php:136
+msgid "Post date"
+msgstr "게시 날짜"
+
+#: includes/classes/class-tgm-plugin-activation.php:2296
+msgid "Pre-Packaged"
+msgstr "미리 패키지됨"
+
+#: includes/woocommerce.php:475
+msgid "Previous"
+msgstr "이전"
+
+#: includes/woocommerce.php:475
+msgid "Previous Post: "
+msgstr "이전 게시물: "
+
+#: includes/core.php:101 includes/customizer.php:494
+msgid "Primary"
+msgstr "기본"
+
+#: partials/footers/footer-4.php:21 partials/footers/footer-3.php:21
+msgid "Primary Footer Menu"
+msgstr "기본 바닥글 메뉴"
+
+#. translators: 1: link to WP admin new post page.
+#: partials/content-none.php:21
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "첫 번째 게시물을 게시할 준비가 되었나요? <a href=\"%1$s\">여기서 시작</a>하세요."
+
+#: includes/classes/class-tgm-plugin-activation.php:2274
+msgid "Recommended"
+msgstr "권장"
+
+#: includes/pluggable.php:71
+msgid "Reply"
+msgstr "회신"
+
+#: includes/classes/class-tgm-plugin-activation.php:2271
+msgid "Required"
+msgstr "필수"
+
+#: includes/classes/class-tgm-plugin-activation.php:2325
+msgid "Required Update not Available"
+msgstr "필수 업데이트가 없음"
+
+#: includes/classes/class-tgm-plugin-activation.php:2328
+msgid "Requires Update"
+msgstr "업데이트 필요"
+
+#: includes/woocommerce.php:558
+msgid "Reset Selections"
+msgstr "선택 사항 재설정"
+
+#: includes/classes/class-tgm-plugin-activation.php:383
+msgid "Return to Required Plugins Installer"
+msgstr "필수 플러그인 설치 프로그램으로 돌아가기"
+
+#: includes/classes/class-tgm-plugin-activation.php:384
+#: includes/classes/class-tgm-plugin-activation.php:825
+#: includes/classes/class-tgm-plugin-activation.php:2531
+#: includes/classes/class-tgm-plugin-activation.php:3578
+msgid "Return to the Dashboard"
+msgstr "알림판으로 돌아가기"
+
+#: includes/template-tags.php:892
+msgid "Search Toggle"
+msgstr "검색 설정/해제"
+
+#. translators: Search query term(s).
+#: includes/core.php:1324
+msgid "Search for: %s"
+msgstr "검색 대상: %s"
+
+#: includes/customizer.php:516
+msgid "Secondary"
+msgstr "두 번째"
+
+#: partials/footers/footer-4.php:37 partials/footers/footer-3.php:36
+msgid "Secondary Footer Menu"
+msgstr "두 번째 바닥글 메뉴"
+
+#. translators: 1: plugin name.
+#: includes/classes/class-tgm-plugin-activation.php:3507
+#: includes/classes/class-tgm-plugin-activation.php:3515
+msgid "Show Details"
+msgstr "세부 정보 보기"
+
+#: includes/customizer.php:1009
+msgid "Site Design"
+msgstr "사이트 디자인"
+
+#: includes/customizer.php:348
+msgid "Site Settings"
+msgstr "사이트 설정"
+
+#: header.php:39
+msgid "Skip to content"
+msgstr "콘텐츠로 건너뛰기"
+
+#: includes/customizer.php:916
+msgid "Social"
+msgstr "소셜"
+
+#: includes/classes/class-tgm-plugin-activation.php:331
+msgid "Something went wrong with the plugin API."
+msgstr "플러그인 API에 문제가 발생했습니다."
+
+#: partials/content-none.php:33
+msgid "Sorry, but nothing matched your search terms. Please try searching again with some different keywords."
+msgstr "죄송합니다. 검색 조건과 일치하는 항목이 없습니다. 다른 키워드를 사용하여 다시 검색해 보세요."
+
+#: includes/classes/class-tgm-plugin-activation.php:2546
+msgid "Source"
+msgstr "원본"
+
+#: includes/classes/class-tgm-plugin-activation.php:2552
+msgid "Status"
+msgstr "상태"
+
+#: includes/template-tags.php:189
+msgid "Tags"
+msgstr "태그"
+
+#: includes/customizer.php:538
+msgid "Tertiary"
+msgstr "세 번째"
+
+#: partials/footers/footer-4.php:53 partials/footers/footer-3.php:51
+msgid "Tertiary Footer Menu"
+msgstr "세 번째 바닥글 메뉴"
+
+#: includes/core.php:1306
+msgid "That page can't be found"
+msgstr "해당 페이지를 찾을 수 없습니다."
+
+#. translators: 1: plugin name(s).
+#: includes/classes/class-tgm-plugin-activation.php:344
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] "다음 플러그인은 이 테마와의 호환성을 극대화하기 위해 최신 버전으로 업데이트해야 합니다. %1$s"
+
+#: includes/classes/class-tgm-plugin-activation.php:386
+#: includes/classes/class-tgm-plugin-activation.php:2950
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "다음 플러그인이 활성화되었습니다."
+
+#. translators: 1: plugin name(s).
+#: includes/classes/class-tgm-plugin-activation.php:362
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "다음 권장 플러그인이 현재 비활성 상태입니다. %1$s"
+
+#. translators: 1: plugin name(s).
+#: includes/classes/class-tgm-plugin-activation.php:356
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "다음 필수 플러그인이 현재 비활성 상태입니다. %1$s"
+
+#: includes/classes/class-tgm-plugin-activation.php:3505
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "설치 및 활성화 과정이 시작되었습니다. 이 과정은 일부 호스트에서 다소 시간이 걸립니다. 기다려 주시기 바랍니다."
+
+#. translators: 1: plugin name.
+#: includes/classes/class-tgm-plugin-activation.php:3501
+msgid "The installation of %1$s failed."
+msgstr "%1$s 설치를 실패했습니다."
+
+#: includes/classes/class-tgm-plugin-activation.php:3513
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "설치 과정이 시작되었습니다. 이 과정은 일부 호스트에서 다소 시간이 걸립니다. 기다려 주시기 바랍니다."
+
+#: includes/classes/class-tgm-plugin-activation.php:935
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr "원격 플러그인 패키지에 둘 이상의 파일로 구성되어 있지만 파일이 한 폴더에 패키징되지 않았습니다."
+
+#: includes/classes/class-tgm-plugin-activation.php:932
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr "원격 플러그인 패키지에 원하는 슬러그가 있는 폴더가 포함되어 있지 않으며 이름 변경이 동작하지 않습니다."
+
+#: includes/classes/class-tgm-plugin-activation.php:394
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr "설치, 업데이트 또는 활성화해야 하는 하나 이상의 필수 또는 권장 플러그인이 있습니다."
+
+#. translators: 1: plugin name(s).
+#: includes/classes/class-tgm-plugin-activation.php:350
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "다음 플러그인에 사용할 수 있는 업데이트가 있습니다. %1$s"
+
+#: includes/classes/class-tgm-plugin-activation.php:520
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "테마와 호환하려면 이 플러그인을 업데이트해야 합니다."
+
+#. translators: 1: plugin name(s).
+#: includes/classes/class-tgm-plugin-activation.php:338
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "이 테마는 다음 플러그인을 권장합니다. %1$s"
+
+#. translators: 1: plugin name(s).
+#: includes/classes/class-tgm-plugin-activation.php:332
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "이 테마는 다음 플러그인이 필요합니다. %1$s"
+
+#. translators: 1: number of plugins.
+#: includes/classes/class-tgm-plugin-activation.php:2398
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "<span class=\"count\">(%s)</span> 활성화 방법"
+
+#. translators: 1: number of plugins.
+#: includes/classes/class-tgm-plugin-activation.php:2390
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "<span class=\"count\">(%s)</span> 설치 방법"
+
+#: includes/classes/class-tgm-plugin-activation.php:2547
+msgid "Type"
+msgstr "유형"
+
+#: includes/classes/class-tgm-plugin-activation.php:2721
+msgid "Update"
+msgstr "업데이트"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: includes/classes/class-tgm-plugin-activation.php:2606
+msgid "Update %2$s"
+msgstr "%2$s 업데이트"
+
+#. translators: 1: number of plugins.
+#: includes/classes/class-tgm-plugin-activation.php:2394
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "업데이트 사용 가능 <span class=\"count\">(%s)</span>"
+
+#: includes/classes/class-tgm-plugin-activation.php:521
+msgid "Update Required"
+msgstr "업데이트 필요"
+
+#: includes/classes/class-tgm-plugin-activation.php:2331
+msgid "Update recommended"
+msgstr "업데이트 권장"
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: includes/classes/class-tgm-plugin-activation.php:3496
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "%1$s(%2$d/%3$d) 플러그인 업데이트중"
+
+#. translators: %s: plugin name.
+#: includes/classes/class-tgm-plugin-activation.php:330
+msgid "Updating Plugin: %s"
+msgstr "플러그인 업데이트중: %s"
+
+#: includes/classes/class-tgm-plugin-activation.php:2682
+msgid "Upgrade message from the plugin author:"
+msgstr "플러그인 제작자의 업그레이드 메시지:"
+
+#: includes/classes/class-tgm-plugin-activation.php:2551
+msgid "Version"
+msgstr "버전"
+
+#: includes/woocommerce.php:153
+msgid "View cart"
+msgstr "카트 보기"
+
+#: includes/customizer.php:293
+msgid "Width"
+msgstr "너비"
+
+#: includes/classes/class-tgm-plugin-activation.php:2290
+msgid "WordPress Repository"
+msgstr "워드프레스 리포지토리"
+
+#: includes/woocommerce.php:337
+msgid "Your cart is currently empty."
+msgstr "귀하의 카트는 현재 비어 있습니다."
+
+#: includes/pluggable.php:57
+msgid "Your comment is awaiting moderation."
+msgstr "귀하의 댓글이 조정 대기 중입니다."
+
+#: includes/classes/class-tgm-plugin-activation.php:2480
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "알 수 없음"
+
+#: includes/core.php:646
+msgctxt "color palette name"
+msgid "Apricot"
+msgstr "살구"
+
+#: includes/core.php:770
+msgctxt "color palette name"
+msgid "Avocado"
+msgstr "아보카도"
+
+#: includes/core.php:896
+msgctxt "color palette name"
+msgid "Berry"
+msgstr "베리"
+
+#: includes/core.php:706
+msgctxt "color palette name"
+msgid "Blush"
+msgstr "블러시"
+
+#: includes/core.php:660
+msgctxt "color palette name"
+msgid "Brick"
+msgstr "벽돌"
+
+#: includes/core.php:667
+msgctxt "color palette name"
+msgid "Bronze"
+msgstr "브론즈"
+
+#: includes/core.php:778
+msgctxt "color palette name"
+msgid "Champagne"
+msgstr "샴페인"
+
+#: includes/core.php:876
+msgctxt "color palette name"
+msgid "Coral"
+msgstr "산호색"
+
+#: includes/core.php:653
+msgctxt "color palette name"
+msgid "Emerald"
+msgstr "에메랄드"
+
+#: includes/core.php:812
+msgctxt "color palette name"
+msgid "Forest"
+msgstr "숲"
+
+#: includes/core.php:866
+msgctxt "color palette name"
+msgid "Frolic"
+msgstr "놀이"
+
+#: includes/core.php:713
+msgctxt "color palette name"
+msgid "Indigo"
+msgstr "남색"
+
+#: includes/core.php:836
+msgctxt "color palette name"
+msgid "Lavender"
+msgstr "연보라"
+
+#: includes/core.php:828
+msgctxt "color palette name"
+msgid "Mocha"
+msgstr "모카"
+
+#: includes/core.php:886
+msgctxt "color palette name"
+msgid "Organic"
+msgstr "오가닉"
+
+#: includes/core.php:720
+msgctxt "color palette name"
+msgid "Pacific"
+msgstr "태평양"
+
+#: includes/core.php:753
+msgctxt "color palette name"
+msgid "Plum"
+msgstr "진보라"
+
+#: includes/core.php:699
+msgctxt "color palette name"
+msgid "Shade"
+msgstr "음영"
+
+#: includes/core.php:820
+msgctxt "color palette name"
+msgid "Spruce"
+msgstr "가문비나무"
+
+#: includes/core.php:762
+msgctxt "color palette name"
+msgid "Steel"
+msgstr "강철"
+
+#: includes/core.php:694
+msgctxt "design style name"
+msgid "Modern"
+msgstr "모던"
+
+#: includes/core.php:861
+msgctxt "design style name"
+msgid "Playful"
+msgstr "장난기"
+
+#: includes/core.php:641
+msgctxt "design style name"
+msgid "Traditional"
+msgstr "전통"
+
+#: includes/core.php:748
+msgctxt "design style name"
+msgid "Trendy"
+msgstr "최신 유행"
+
+#: includes/core.php:807
+msgctxt "design style name"
+msgid "Welcoming"
+msgstr "시작"
+
+#: includes/core.php:198
+msgctxt "font size option label"
+msgid "Huge"
+msgstr "매우 크게"
+
+#: includes/core.php:192
+msgctxt "font size option label"
+msgid "Large"
+msgstr "크게"
+
+#: includes/core.php:186
+msgctxt "font size option label"
+msgid "Medium"
+msgstr "보통"
+
+#: includes/core.php:180
+msgctxt "font size option label"
+msgid "Small"
+msgstr "작게"
+
+#: searchform.php:21
+msgctxt "label"
+msgid "Search for:"
+msgstr "검색 대상:"
+
+#: includes/core.php:211
+msgctxt "name of the first color palette selection"
+msgid "Primary"
+msgstr "기본"
+
+#: includes/core.php:1020
+msgctxt "name of the first footer variation option"
+msgid "Footer 1"
+msgstr "바닥글 1"
+
+#: includes/core.php:981
+msgctxt "name of the first header variation option"
+msgid "Header 1"
+msgstr "헤더 1"
+
+#: includes/core.php:226
+msgctxt "name of the fourth color palette selection"
+msgid "Quaternary"
+msgstr "네 번째"
+
+#: includes/core.php:1041
+msgctxt "name of the fourth footer variation option"
+msgid "Footer 4"
+msgstr "바닥글 4"
+
+#: includes/core.php:993
+msgctxt "name of the fourth header variation option"
+msgid "Header 4"
+msgstr "헤더 4"
+
+#: includes/core.php:216
+msgctxt "name of the second color palette selection"
+msgid "Secondary"
+msgstr "두 번째"
+
+#: includes/core.php:1027
+msgctxt "name of the second footer variation option"
+msgid "Footer 2"
+msgstr "바닥글 2"
+
+#: includes/core.php:985
+msgctxt "name of the second header variation option"
+msgid "Header 2"
+msgstr "헤더 2"
+
+#: includes/core.php:221
+msgctxt "name of the third color palette selection"
+msgid "Tertiary"
+msgstr "세 번째"
+
+#: includes/core.php:1034
+msgctxt "name of the third footer variation option"
+msgid "Footer 3"
+msgstr "바닥글 3"
+
+#: includes/core.php:989
+msgctxt "name of the third header variation option"
+msgid "Header 3"
+msgstr "헤더 3"
+
+#: searchform.php:23
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr "검색&hellip;"
+
+#: includes/classes/class-tgm-plugin-activation.php:1119
+#: includes/classes/class-tgm-plugin-activation.php:2946
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "및"
+
+#. translators: 1: number of plugins.
+#: includes/classes/class-tgm-plugin-activation.php:2386
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "모든 <span class=\"count\">(%s)</span>"
+
+#: partials/content-excerpt.php:25
+msgctxt "post"
+msgid "Featured"
+msgstr "추천"
+
+#: searchform.php:25
+msgctxt "submit button"
+msgid "Submit"
+msgstr "제출"
+
+#: includes/core.php:1144
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: includes/core.php:1139
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: includes/core.php:1134
+msgid "Instagram"
+msgstr "Instagram"
+
+#: includes/core.php:1129
+msgid "Twitter"
+msgstr "Twitter"
+
+#: includes/core.php:1124
+msgid "Facebook"
+msgstr "Facebook"
+
+#. translators: %s: version number
+#: includes/classes/class-tgm-plugin-activation.php:1980
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#. Author URI of the theme
+msgid "https://www.godaddy.com"
+msgstr "https://kr.godaddy.com"
+
+#. Author of the theme
+msgid "GoDaddy"
+msgstr "GoDaddy"
+
+#. Theme URI of the theme
+msgid "https://github.com/godaddy-wordpress/go"
+msgstr "https://github.com/godaddy-wordpress/go"
